@@ -64,7 +64,7 @@ author:
   location         : "Charlottesville, Virginia"
   email            : "aliceswan@gmail.com"
   github           : "alicewanner"
-  googlescholar    : "https://scholar.google.com/citations?user=_Ky_3hAAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wQhZOyAAAAAJ"
   orcid            : "https://orcid.org/0009-0001-2322-4432"
 
 
@@ -74,9 +74,9 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
