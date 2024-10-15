@@ -47,14 +47,6 @@
         </li>
       {% endif %}
 
-      {% if author.googlescholar %} 
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      {% endif %}
-      
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
-      {% endif %}
-
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}" rel="me" class="u-email">
@@ -246,6 +238,14 @@
             <i class="fab fa-fw fa-vine" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
           </a>
         </li>
+      {% endif %}
+
+      {% if author.googlescholar %} 
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="fa fa-book" aria-hidden="true"></i>ORCID</a></li>
       {% endif %}
 
       {% include author-profile-custom-links.html %}
