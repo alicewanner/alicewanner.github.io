@@ -16,7 +16,7 @@ I am a fourth-year undergraduate student at the [University of Virginia](https:/
 Publications
 ---
 **2024**
-- **Alice Wanner**, Ryan Lenfant, Michelle Cheng, Thomas Lam, Raymond Pettit, John R Hott. Office Hours and Online Forum Engagement in Introductory CS Courses. *2024 IEEE Frontiers in Education Conference (FIE), 2024*, 2024.
+- **Alice Wanner**, Ryan Lenfant, Michelle Cheng, Thomas Lam, Raymond Pettit, John R Hott. Office Hours and Online Forum Engagement in Introductory CS Courses. *2024 IEEE Frontiers in Education Conference (FIE)*, 2024.
 
 <!-- - **Alice Wanner**, Ryan Lenfant, Michelle Cheng, Thomas Lam, Raymond Pettit, John R Hott. Office Hours and Online Forum Engagement in Introductory CS Courses. *2024 IEEE Frontiers in Education Conference (FIE), 2024*, 2024. [[paper]]() -->
 
