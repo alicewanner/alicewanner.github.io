@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ---
 
-I am a fourth-year undergraduate student at the [University of Virginia](https://www.virginia.edu/), majoring in Computer Science and Mathematics with a minor in German Literature. I am passionate about research and teaching, with a particular focus on making computer science a more inclusive and accessible field for individuals of all identities. My research interests lie in machine learning and its diverse applications, including environmental, medical, and social contexts. Currently, I am engaged in research with the [Epstein Ecosystem Ecology Lab](https://epstein.evsc.virginia.edu/) and [Wei-Kai Lin](https://weikailin.github.io/) at UVA.
+I am a fourth-year undergraduate student at the [University of Virginia](https://www.virginia.edu/), majoring in Computer Science and Mathematics with a minor in German Literature. My research interests lie in machine learning and its diverse applications, including environmental, medical, and social contexts. Currently, I am engaged in research with the [Epstein Ecosystem Ecology Lab](https://epstein.evsc.virginia.edu/) and [Wei-Kai Lin](https://weikailin.github.io/) at UVA. I am passionate about research and teaching, with a particular focus on making computer science a more inclusive and accessible field for individuals of all identities. I am currently a head teaching assistant for [CS 1110 at UVA](https://engineering.virginia.edu/department/computer-science). 
 
 Publications
 ---
