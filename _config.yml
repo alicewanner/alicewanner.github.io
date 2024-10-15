@@ -60,20 +60,14 @@ plugins:
 author:
   name   : "Alice Wanner"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "4th Year Computer Science and Mathematics Student at the University of Virginia"
-  links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+  bio    : "4th Year Computer Science & Mathematics Student at the University of Virginia"
+  location         : "Charlottesville, Virginia"
+  googlescholar    : "https://scholar.google.com/citations?user=wQhZOyAAAAAJ&hl=en&oi=sra"
+  email            : "aliceswan@gmail.com"
+  github           : "alicewanner"
+
+
+
 
 footer:
   links:
