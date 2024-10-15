@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alice Wanner
-email:
+email: aliceswan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 url: https://alicewanner.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -62,10 +62,10 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "4th Year Computer Science & Mathematics Student at the University of Virginia"
   location         : "Charlottesville, Virginia"
-  googlescholar    : "https://scholar.google.com/citations?user=_Ky_3hAAAAAJ&hl=en&oi=sra"
-  # email            : "aliceswan@gmail.com"
+  email            : "aliceswan@gmail.com"
   github           : "alicewanner"
-  # orcid            : "https://orcid.org/0009-0001-2322-4432"
+  googlescholar    : "https://scholar.google.com/citations?user=_Ky_3hAAAAAJ&hl=en&oi=sra"
+  orcid            : "https://orcid.org/0009-0001-2322-4432"
 
 
 
