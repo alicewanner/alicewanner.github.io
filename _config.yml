@@ -16,7 +16,8 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alicewanner/alicewanner.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-minimal_mistakes_skin    : contrast
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "contrast"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
