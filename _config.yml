@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 url: https://alicewanner.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "alicewanner/alicewanner.github.io"
+repository: "alicewanner/personal-site"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
