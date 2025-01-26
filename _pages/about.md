@@ -15,9 +15,9 @@ I am a fourth-year undergraduate student at the [University of Virginia](https:/
 
 News
 ---
-- **10/2024** Had the privilege of presenting at the IEEE Frontiers in Education ([[FIE]](https://2024.fie-conference.org/)) Conference in Washington, DC.
-- **2/2024** Presented at the UC Davis [[CERD Seminar]](https://cerd.cs.ucdavis.edu/) via Zoom. Grateful for the opportunity to share my work in CS education!
-- **7/2023** Had a blast presenting at the Conference on Innovation and Technology in Computer Science Education ([[ITiCSE]](https://iticse.acm.org/2023/)) in Turku, Finland.
+- **10/2024** Had the privilege of presenting at the IEEE Frontiers in Education ([FIE](https://2024.fie-conference.org/)) Conference in Washington, DC.
+- **2/2024** Presented at the UC Davis [CERD Seminar](https://cerd.cs.ucdavis.edu/) via Zoom. Grateful for the opportunity to share my work in CS education!
+- **7/2023** Had a blast presenting at the Conference on Innovation and Technology in Computer Science Education ([ITiCSE](https://iticse.acm.org/2023/)) in Turku, Finland.
 
 
 Publications
