@@ -8,6 +8,6 @@ tags:
 
 ======
 
-![image](images/enviroday.jpeg)
+![image](page_imgs/enviroday.jpeg)
 
-![image](images/enviroday_poster.jpeg)
+![image](page_imgs/enviroday_poster.jpeg)
