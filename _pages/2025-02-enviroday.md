@@ -2,13 +2,10 @@
 title: 'Enviroday 2025'
 date: 2025-02-21
 permalink: /posts/2025/02/enviroday/
-# tags:
-#   - cool posts
-#   - category1
-#   - category2
+tags:
+  - UVA
 ---
 
-Enviroday 2025
 ======
 
 ![image](images/enviroday.jpeg)
