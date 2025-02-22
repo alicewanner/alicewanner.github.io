@@ -1,5 +1,5 @@
 ---
-title: 'Enviroday 2025'
+title: 'EnviroDay 2025'
 date: 2025-02-21
 permalink: /posts/2025/02/enviroday/
 tags:
