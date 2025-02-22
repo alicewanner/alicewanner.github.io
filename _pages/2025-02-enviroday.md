@@ -6,8 +6,6 @@ tags:
   - UVA
 ---
 
-======
-
 ![image](page_imgs/enviroday.JPG)
 
 ![image](page_imgs/enviroday_poster.jpg)
