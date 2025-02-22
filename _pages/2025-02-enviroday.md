@@ -10,4 +10,4 @@ tags:
 
 ![image](page_imgs/enviroday.jpeg)
 
-![image](page_imgs/enviroday_poster.jpeg)
+![image](page_imgs/enviroday_poster.jpg)
