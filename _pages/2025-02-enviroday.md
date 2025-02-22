@@ -11,5 +11,6 @@ permalink: /posts/2025/02/enviroday/
 Enviroday 2025
 ======
 
-![image](enviroday.jpeg)
-![image](enviroday_poster.jpeg)
+![image](images/enviroday.jpeg)
+
+![image](images/enviroday_poster.jpeg)
