@@ -11,9 +11,7 @@ redirect_from:
 About Me
 ---
 
-I am a fourth-year undergraduate student at the [University of Virginia](https://www.virginia.edu/), majoring in Computer Science and Mathematics with a minor in German Literature. My research interests lie in machine learning and its diverse applications, including environmental, medical, and social contexts. Currently, I am engaged in research with the [Epstein Ecosystem Ecology Lab](https://epstein.evsc.virginia.edu/) and [Wei-Kai Lin](https://weikailin.github.io/) at UVA. I am passionate about research and teaching, with a particular focus on making computer science a more inclusive and accessible field for individuals of all identities. I am currently a head teaching assistant for [CS 1110 at UVA](https://engineering.virginia.edu/department/computer-science). 
-
-In my free time, I always have a paper book and an audiobook in progress, love finding new hiking trails, enjoy cooking and trying new restaurants, and go to concerts whenever I can.
+In Fall 2025, I will begin my PhD at the University of Michigan, joining the [Machine Learning for Data-Driven Decisions](https://wiens-group.engin.umich.edu/) lab led by Professor Jenna Wiens. I am currently finishing my bachelor’s degree in Computer Science and Mathematics at the University of Virginia, graduating in May 2025. My research interests lie in machine learning, particularly its applications in healthcare. In my free time, I always have a paper book and an audiobook in progress, love finding new hiking trails, enjoy cooking and trying new restaurants, and go to concerts whenever I can.
 
 News
 ---
