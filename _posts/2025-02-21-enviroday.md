@@ -1,8 +1,8 @@
 ---
-title: 'EnviroDay 2025'
+title: 'EnviroDay'
 date: 2025-02-21
-excerpt: "Presented my poster on modeling vegetation dynamics with animal grazing at UVA's [EnviroDay](https://enviroday.evsc.virginia.edu/), where it won second place!"
-permalink: /posts/2025/02/enviroday/
+excerpt: "Presented my poster on modeling vegetation dynamics with animal grazing at UVA's EnviroDay, where it won second place!"
+permalink: /posts/2025/enviroday/
 tags:
   - UVA
 ---
