@@ -17,6 +17,3 @@ Recent News
 ---
 - **[05-17-2025](https://alicewanner.github.io/posts/2025/uvagrad/)** Graduated with High Distinction from the University of Virginia. Wahoowa!
 - **[02-21-2025](https://alicewanner.github.io/posts/2025/enviroday/)** Presented my poster on modeling vegetation dynamics with animal grazing at UVA's [EnviroDay](https://enviroday.evsc.virginia.edu/), where it won second place!
-<!-- - **[10-14-2024](https://alicewanner.github.io/posts/2024/fie/)** Had the privilege of presenting at the IEEE Frontiers in Education ([FIE](https://2024.fie-conference.org/)) Conference in Washington, DC.
-- **[02-23-2024](https://alicewanner.github.io/posts/2024/cerd/)** Presented at the UC Davis [CERD Seminar](https://cerd.cs.ucdavis.edu/) via Zoom. Grateful for the opportunity to share my work in CS education! 
-- **[07-12-2023](https://alicewanner.github.io/posts/2023/iticse/)** Had a blast presenting at the Conference on Innovation and Technology in Computer Science Education ([ITiCSE](https://iticse.acm.org/2023/)) in Turku, Finland. -->
