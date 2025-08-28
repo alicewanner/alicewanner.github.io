@@ -15,4 +15,5 @@ In Fall 2025, I will begin my PhD at the University of Michigan, joining the [Ma
 
 Recent News
 ---
+- **08/25/2025** Started my PhD in Computer Science at the University of Michigan. Go Blue!
 - **[05/17/2025](https://alicewanner.github.io/posts/2025/uvagrad/)** Graduated with High Distinction from the University of Virginia. Wahoowa!
