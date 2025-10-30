@@ -11,5 +11,5 @@ permalink: /resume/
 ---
 
 
-<meta http-equiv="refresh" content="0; url=/files/10302025_Resume.pdf" />
+<meta http-equiv="refresh" content="0; url=/assets/files/10302025_Resume.pdf" />
 
