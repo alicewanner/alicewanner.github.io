@@ -12,7 +12,8 @@ main:
 - title: "Teaching"
   url: /teaching/    
 
-  
+- title: "Resume"
+  url: /assets/resume.pdf
  
 # - title: "Talks"
 #   url: /talks/    

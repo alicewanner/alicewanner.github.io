@@ -10,8 +10,7 @@ redirect_from:
 
 About Me
 ---
-
-In Fall 2025, I will begin my PhD at the University of Michigan, joining the [Machine Learning for Data-Driven Decisions](https://wiens-group.engin.umich.edu/) lab led by Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/). My research interests lie in machine learning for healthcare applications. I received my bachelor’s degree in Computer Science and Mathematics from the University of Virginia in May 2025. Outside of research, I enjoy reading, hiking, and exploring local coffee shops.
+I am a first-year Computer Science and Engineering PhD student at the University of Michigan, in the [Machine Learning for Data-Driven Decisions](https://wiens-group.engin.umich.edu/) lab led by Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/). My research focuses on machine learning for healthcare applications, and I am currently working on multimodal models for diagnostic tasks. I earned my bachelor’s degree in Computer Science and Mathematics from the University of Virginia in May 2025. Outside of research, I enjoy reading, hiking, and exploring local coffee shops.
 
 Recent News
 ---
