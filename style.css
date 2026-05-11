@@ -1,0 +1,257 @@
+/* =========================================================
+   Shared styles for the site. Used by index.html and uva.html.
+   Edit colors and fonts in :root, the rest cascades from there.
+   ========================================================= */
+
+:root {
+  --bg: #ffffff;
+  --ink: #1a1a1a;
+  --ink-soft: #4a4a4a;
+  --muted: #8a8a8a;
+  --rule: #e8e6e2;
+  --serif: "Fraunces", "Iowan Old Style", "Georgia", serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection { background: #f0e9d8; }
+
+a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color .15s ease;
+}
+a:hover { text-decoration-color: var(--ink); }
+
+.page {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 96px 28px 120px;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.masthead img {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+.masthead .who h1 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.2;
+  margin: 0 0 4px;
+  letter-spacing: -0.005em;
+}
+.masthead .role {
+  color: var(--muted);
+  font-size: 17px;
+  margin: 0;
+  font-style: italic;
+}
+
+/* On secondary pages we use a smaller "back to home" header */
+.topbar {
+  font-size: 15px;
+  color: var(--muted);
+  margin-bottom: 56px;
+}
+.topbar a { color: var(--muted); }
+.topbar a:hover { color: var(--ink); }
+
+/* ---------- page heading (for sub-pages) ---------- */
+
+.page-head h1 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  margin: 0 0 8px;
+}
+.page-head .dates {
+  color: var(--muted);
+  font-style: italic;
+  font-size: 17px;
+  margin: 0 0 32px;
+}
+
+/* ---------- sections ---------- */
+
+section {
+  margin-top: 64px;
+}
+
+.section-head {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  margin: 0 0 20px;
+}
+
+p { margin: 0 0 1em; }
+p:last-child { margin-bottom: 0; }
+
+.about p { color: var(--ink); line-height: 1.65; }
+
+/* ---------- inline figure (image + caption) ---------- */
+
+figure.inline {
+  margin: 36px 0 8px;
+  text-align: center;
+}
+figure.inline img {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+figure.inline figcaption {
+  margin-top: 12px;
+  color: var(--muted);
+  font-style: italic;
+  font-size: 15.5px;
+}
+
+/* ---------- news ---------- */
+
+.news {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.news li {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 24px;
+  padding: 4px 0;
+  margin-bottom: 14px;
+}
+.news li:last-child { margin-bottom: 0; }
+.news time {
+  color: var(--muted);
+  font-size: 16px;
+  font-variant-numeric: tabular-nums;
+  padding-top: 1px;
+}
+.news .item { color: var(--ink); }
+/* .news .item .more {
+  display: block;
+  margin-top: 6px;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 16px;
+} */
+.news .item .more {
+  display: inline;
+  margin-left: 6px;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 16px;
+}
+.news .item .more a { color: var(--muted); }
+.news .item .more a:hover { color: var(--ink); }
+
+/* ---------- generic two-column lists (presentations, teaching, etc.) ---------- */
+
+.two-col {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.two-col li {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 24px;
+  padding: 4px 0;
+  margin-bottom: 10px;
+}
+.two-col li:last-child { margin-bottom: 0; }
+.two-col .key {
+  color: var(--muted);
+  font-size: 16px;
+  font-variant-numeric: tabular-nums;
+  padding-top: 1px;
+}
+.two-col .val { color: var(--ink); }
+.two-col .meta { color: var(--muted); font-style: italic; font-size: 16px; }
+
+/* ---------- publications / citations ---------- */
+
+.pubs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pubs li {
+  margin-bottom: 18px;
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1.55;
+}
+.pubs li:last-child { margin-bottom: 0; }
+.pubs .venue { color: var(--muted); font-style: italic; }
+.pubs .year {
+  color: var(--muted);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  margin-right: 8px;
+}
+.pubs strong { font-weight: 900; }
+
+/* ---------- footer ---------- */
+
+.closing {
+  margin-top: 80px;
+  color: var(--muted);
+  font-size: 16px;
+}
+.closing a { color: var(--ink-soft); }
+.closing .sep { margin: 0 10px; color: var(--rule); }
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .page { padding: 64px 22px 80px; }
+  section { margin-top: 48px; }
+  .masthead { gap: 18px; }
+  .masthead img { width: 68px; height: 68px; }
+  .masthead .who h1 { font-size: 26px; }
+  .page-head h1 { font-size: 28px; }
+  .news li, .two-col li { grid-template-columns: 1fr; gap: 2px; }
+  .news time, .two-col .key { font-size: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
